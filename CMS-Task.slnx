@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ContentMS.Core/ContentMS.Core.csproj" />
+  <Project Path="ContentMS.Data/ContentMS.Data.csproj" />
+  <Project Path="ContentMS.Infrastructure/ContentMS.Infrastructure.csproj" />
+  <Project Path="ContentMS.Web/ContentMS.Web.csproj" />
+</Solution>
